@@ -1,14 +1,14 @@
 <!-- 🔥 PREMIUM FULL STACK DEVELOPER README FOR SUDHANSHU SINGH -->
 
 <h1 align="center">Hi 👋, I'm Sudhanshu Singh</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN | Java | Backend Engineer</h3>
+<h3 align="center">🚀 Full Stack Developer | MERN | Java | Spring Boot | Backend Engineer</h3>
 
 ---
 
 ## 👨‍💻 About Me  
-- 🔥 Passionate **Full Stack Developer** from India  
-- 🌱 Currently working on **MERN, Java, SQL, Backend Systems**  
-- 💡 Loves building **scalable backend & modern UI**  
+- 🔥 Passionate **Full Stack & Backend Developer**  
+- 🌱 Currently working on **Java, Spring Boot, Node.js, MERN, SQL**  
+- 💡 Loves creating **scalable backend systems & modern UI**  
 - 📫 Email: **sudhanshusingh55955@gmail.com**  
 - ⚡ Fun fact: *I debug faster than I code 😎*
 
@@ -23,7 +23,7 @@
 
 ### **Backend**
 <div>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,mongodb,postgres,mysql" height="50" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,mongodb,postgres,mysql" height="50" />
 </div>
 
 ### **Tools & Other Skills**
@@ -44,13 +44,10 @@
 
 <div align="center">
 
-<!-- Stats -->
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=sudhanshusingh2121&show_icons=true&theme=radical&count_private=true" />
 
-<!-- Streak -->
 <img height="180" src="https://streak-stats.demolab.com?user=sudhanshusingh2121&theme=radical" />
 
-<!-- Languages -->
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshusingh2121&layout=compact&theme=radical" />
 
 </div>
@@ -79,4 +76,3 @@
 
 ### 🎯 Thanks for visiting my profile!  
 ⭐ **Don't forget to star my repositories!**
-
