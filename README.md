@@ -7,8 +7,8 @@
 
 ## 👨‍💻 About Me  
 - 🔥 Passionate **Full Stack & Backend Developer**  
-- 🌱 Skilled in **Java, Spring Boot, Node.js, MERN, SQL**  
-- 💡 Building **scalable backend APIs & modern UI**  
+- 💡 Skilled in **Java, Spring Boot, Node.js, MERN, SQL**  
+- 🚀 I build **scalable APIs + clean UI**  
 - 📫 Email: **sudhanshusingh55955@gmail.com**
 
 ---
@@ -41,7 +41,7 @@
 
 ---
 
-### 🧰 Tools & Other Skills  
+### 🧰 Tools  
 <div>
   <img src="https://skillicons.dev/icons?i=git" height="50" />
   <img src="https://skillicons.dev/icons?i=github" height="50" />
@@ -52,10 +52,18 @@
 
 ---
 
-## 🏆 GitHub Profile Trophy (Static — Never Breaks)
+## 🏆 GitHub Profile Trophy (ALWAYS WORKING — Inline SVG)
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/static/images/github-profile-trophy.png" 
-       alt="GitHub Trophy" height="200">
+  <img height="160" alt="Trophy"
+  src='data:image/svg+xml;utf8,
+  <svg xmlns="http://www.w3.org/2000/svg" width="600" height="180">
+    <rect width="100%" height="100%" fill="%230f172a"/>
+    <text x="50%" y="40" fill="%23facc15" font-size="28" font-family="Arial" text-anchor="middle">🏆 GitHub Trophy</text>
+    <g transform="translate(180,60)">
+      <rect x="0" y="0" width="240" height="90" rx="10" fill="%23fbbf24"/>
+      <text x="120" y="55" fill="black" font-size="20" font-family="Arial" text-anchor="middle">Sudhanshu Singh</text>
+    </g>
+  </svg>' />
 </div>
 
 ---
@@ -92,5 +100,4 @@
 
 ---
 
-### 🎯 Thanks for visiting my profile!  
-⭐ **Don't forget to star my repositories!**
+### ⭐ Thanks for visiting my profile!  
