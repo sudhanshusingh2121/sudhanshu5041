@@ -1,4 +1,4 @@
-<!-- 🌟 PREMIUM FULL STACK DEVELOPER README -->
+<!-- 🌟 FULL STACK DEVELOPER README -->
 
 <h1 align="center">Hi 👋, I'm Sudhanshu Singh</h1>
 <h3 align="center">🚀 Full Stack Developer | Java | Spring Boot | MERN | Backend Engineer</h3>
@@ -7,9 +7,9 @@
 
 ## 👨‍💻 About Me  
 - 🔥 Passionate **Full Stack & Backend Developer**  
-- 🌱 Currently working on **Java | Spring Boot | Node.js | MERN | SQL**  
-- 💡 Love creating **scalable backend APIs & modern UI**  
-- 📫 Email: **sudhanshusingh55955@gmail.com**  
+- 🌱 Skilled in **Java, Spring Boot, Node.js, MERN, Databases**  
+- 💡 Creating **scalable backend APIs & modern UI**  
+- 📫 Contact: **sudhanshusingh55955@gmail.com**  
 - ⚡ Fun fact: *I debug faster than I code 😎*
 
 ---
@@ -24,8 +24,14 @@
 ---
 
 ### 🔥 Backend  
-<div>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,mongodb,postgres,mysql" height="50" />
+<div style="display: flex; gap: 10px;">
+  <img src="https://skillicons.dev/icons?i=java" height="50" />
+  <img src="https://skillicons.dev/icons?i=spring" height="50" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" />
+  <img src="https://skillicons.dev/icons?i=express" height="50" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="50" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" />
 </div>
 
 ---
@@ -71,4 +77,12 @@
 
 ---
 
-#
+## ⚡ Contribution Graph  
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudhanshusingh2121&theme=react-dark&area=true&hide_border=true" />
+</div>
+
+---
+
+### 🎯 Thanks for visiting my profile!  
+⭐ **Don't forget to star my repositories!**
