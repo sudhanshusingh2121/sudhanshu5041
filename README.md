@@ -1,10 +1,5 @@
 <!-- 🔥 PREMIUM FULL STACK DEVELOPER README FOR SUDHANSHU SINGH -->
 
-<!-- Banner -->
-<div align="center">
-  <img src="https://i.ibb.co/4d2Yg96/gradient-banner.png" width="100%" />
-</div>
-
 <h1 align="center">Hi 👋, I'm Sudhanshu Singh</h1>
 <h3 align="center">🚀 Full Stack Developer | MERN | Java | Backend Engineer</h3>
 
@@ -40,7 +35,7 @@
 
 ## 🏆 GitHub Profile Trophy  
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sudhanshu5041&theme=radical&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sudhanshusingh2121&theme=radical&margin-w=15&margin-h=15" />
 </div>
 
 ---
@@ -50,13 +45,13 @@
 <div align="center">
 
 <!-- Stats -->
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sudhanshu5041&show_icons=true&theme=radical&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sudhanshusingh2121&show_icons=true&theme=radical&count_private=true" />
 
 <!-- Streak -->
-<img height="180" src="https://streak-stats.demolab.com?user=sudhanshu5041&theme=radical" />
+<img height="180" src="https://streak-stats.demolab.com?user=sudhanshusingh2121&theme=radical" />
 
 <!-- Languages -->
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshu5041&layout=compact&theme=radical" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshusingh2121&layout=compact&theme=radical" />
 
 </div>
 
@@ -75,9 +70,9 @@
 
 ---
 
-## ⚡ Fun Mini Card  
+## ⚡ Contribution Graph  
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudhanshu5041&theme=react-dark&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudhanshusingh2121&theme=react-dark&area=true&hide_border=true" />
 </div>
 
 ---
